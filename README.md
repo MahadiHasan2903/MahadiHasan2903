@@ -11,8 +11,6 @@ I'm Mahadi, a full stack developer skilled in building scalable web and mobile a
 * ✉️  You can contact me at [mahadi.cloudly@gmail.com](mailto:mahadi.cloudly@gmail.com)
 * 🧠  I'm learning I'm actively learning new technologies to stay up-to-date with modern development trends.
 
-<a href="https://www.github.com/MahadiHasan2903" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/MahadiHasan2903?logo=github&style=for-the-badge&color=0891b2&labelColor=0f172a" /></a>
 
 ### Skills
 
